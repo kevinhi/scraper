@@ -1,0 +1,534 @@
+2024-11-02 15:26:14,004 - INFO - logger_utility.log - Loaded previous field values from 'field_values.json'.
+2024-11-02 15:26:14,004 - INFO - logger_utility.log - Loaded configuration from 'config.json'.
+2024-11-02 15:26:14,004 - WARNING - logger_utility.log - Config key 'entry_var' not found. Using default.
+2024-11-02 15:26:14,005 - WARNING - logger_utility.log - Config key 'page_param_var' not found. Using default.
+2024-11-02 15:26:14,005 - WARNING - logger_utility.log - Config key 'max_pages_var' not found. Using default.
+2024-11-02 15:26:14,005 - WARNING - logger_utility.log - Config key 'price_var' not found. Using default.
+2024-11-02 15:26:14,005 - WARNING - logger_utility.log - Config key 'url_entry_var' not found. Using default.
+2024-11-02 15:26:14,005 - WARNING - logger_utility.log - Config key 'url_path_var' not found. Using default.
+2024-11-02 15:26:14,005 - WARNING - logger_utility.log - Config key 'url_append_params_var' not found. Using default.
+2024-11-02 15:26:14,005 - WARNING - logger_utility.log - Config key 'csv_filename_var' not found. Using default.
+2024-11-02 15:26:14,005 - WARNING - logger_utility.log - Config key 'container_selector_var' not found. Using default.
+2024-11-02 15:26:14,005 - WARNING - logger_utility.log - Config key 'title_selector_var' not found. Using default.
+2024-11-02 15:26:14,005 - WARNING - logger_utility.log - Config key 'price_selectors_var' not found. Using default.
+2024-11-02 15:26:14,005 - WARNING - logger_utility.log - Config key 'secondary_price_indicator_var' not found. Using default.
+2024-11-02 15:26:14,005 - WARNING - logger_utility.log - Config key 'secondary_price_selectors_var' not found. Using default.
+2024-11-02 15:26:14,005 - WARNING - logger_utility.log - Config key 'scroll_delay_var' not found. Using default.
+2024-11-02 15:26:14,006 - WARNING - logger_utility.log - Config key 'element_wait_timeout_var' not found. Using default.
+2024-11-02 15:26:14,006 - WARNING - logger_utility.log - Config key 'display_no_price_var' not found. Using default.
+2024-11-02 15:26:14,006 - WARNING - logger_utility.log - Config key 'user_agent_change_interval_var' not found. Using default.
+2024-11-02 15:26:14,006 - WARNING - logger_utility.log - Config key 'user_agent_var' not found. Using default.
+2024-11-02 15:26:14,006 - WARNING - logger_utility.log - Config key 'expected_containers_var' not found. Using default.
+2024-11-02 15:26:14,006 - WARNING - logger_utility.log - Config key 'expected_number_var' not found. Using default.
+2024-11-02 15:26:14,006 - WARNING - logger_utility.log - Config key 'potential_selectors_var' not found. Using default.
+2024-11-02 15:31:38,362 - INFO - logger_utility.log - Loaded previous field values from 'field_values.json'.
+2024-11-02 15:31:38,362 - INFO - logger_utility.log - Loaded configuration from 'config.json'.
+2024-11-02 15:31:38,363 - WARNING - logger_utility.log - Config key 'entry_var' not found. Using default.
+2024-11-02 15:31:38,363 - WARNING - logger_utility.log - Config key 'page_param_var' not found. Using default.
+2024-11-02 15:31:38,363 - WARNING - logger_utility.log - Config key 'max_pages_var' not found. Using default.
+2024-11-02 15:31:38,363 - WARNING - logger_utility.log - Config key 'price_var' not found. Using default.
+2024-11-02 15:31:38,363 - WARNING - logger_utility.log - Config key 'url_entry_var' not found. Using default.
+2024-11-02 15:31:38,363 - WARNING - logger_utility.log - Config key 'url_path_var' not found. Using default.
+2024-11-02 15:31:38,363 - WARNING - logger_utility.log - Config key 'url_append_params_var' not found. Using default.
+2024-11-02 15:31:38,363 - WARNING - logger_utility.log - Config key 'csv_filename_var' not found. Using default.
+2024-11-02 15:31:38,363 - WARNING - logger_utility.log - Config key 'container_selector_var' not found. Using default.
+2024-11-02 15:31:38,364 - WARNING - logger_utility.log - Config key 'title_selector_var' not found. Using default.
+2024-11-02 15:31:38,364 - WARNING - logger_utility.log - Config key 'price_selectors_var' not found. Using default.
+2024-11-02 15:31:38,364 - WARNING - logger_utility.log - Config key 'secondary_price_indicator_var' not found. Using default.
+2024-11-02 15:31:38,364 - WARNING - logger_utility.log - Config key 'secondary_price_selectors_var' not found. Using default.
+2024-11-02 15:31:38,364 - WARNING - logger_utility.log - Config key 'scroll_delay_var' not found. Using default.
+2024-11-02 15:31:38,364 - WARNING - logger_utility.log - Config key 'element_wait_timeout_var' not found. Using default.
+2024-11-02 15:31:38,364 - WARNING - logger_utility.log - Config key 'display_no_price_var' not found. Using default.
+2024-11-02 15:31:38,364 - WARNING - logger_utility.log - Config key 'user_agent_change_interval_var' not found. Using default.
+2024-11-02 15:31:38,364 - WARNING - logger_utility.log - Config key 'user_agent_var' not found. Using default.
+2024-11-02 15:31:38,365 - WARNING - logger_utility.log - Config key 'expected_containers_var' not found. Using default.
+2024-11-02 15:31:38,365 - WARNING - logger_utility.log - Config key 'expected_number_var' not found. Using default.
+2024-11-02 15:31:38,365 - WARNING - logger_utility.log - Config key 'potential_selectors_var' not found. Using default.
+2024-11-02 15:32:47,371 - INFO - logger_utility.log - Loaded previous field values from 'field_values.json'.
+2024-11-02 15:32:47,372 - INFO - logger_utility.log - Loaded configuration from 'config.json'.
+2024-11-02 15:32:47,372 - WARNING - logger_utility.log - Config key 'entry_var' not found. Using default.
+2024-11-02 15:32:47,372 - WARNING - logger_utility.log - Config key 'page_param_var' not found. Using default.
+2024-11-02 15:32:47,372 - WARNING - logger_utility.log - Config key 'max_pages_var' not found. Using default.
+2024-11-02 15:32:47,372 - WARNING - logger_utility.log - Config key 'price_var' not found. Using default.
+2024-11-02 15:32:47,372 - WARNING - logger_utility.log - Config key 'url_entry_var' not found. Using default.
+2024-11-02 15:32:47,372 - WARNING - logger_utility.log - Config key 'url_path_var' not found. Using default.
+2024-11-02 15:32:47,372 - WARNING - logger_utility.log - Config key 'url_append_params_var' not found. Using default.
+2024-11-02 15:32:47,372 - WARNING - logger_utility.log - Config key 'csv_filename_var' not found. Using default.
+2024-11-02 15:32:47,372 - WARNING - logger_utility.log - Config key 'container_selector_var' not found. Using default.
+2024-11-02 15:32:47,372 - WARNING - logger_utility.log - Config key 'title_selector_var' not found. Using default.
+2024-11-02 15:32:47,372 - WARNING - logger_utility.log - Config key 'price_selectors_var' not found. Using default.
+2024-11-02 15:32:47,372 - WARNING - logger_utility.log - Config key 'secondary_price_indicator_var' not found. Using default.
+2024-11-02 15:32:47,373 - WARNING - logger_utility.log - Config key 'secondary_price_selectors_var' not found. Using default.
+2024-11-02 15:32:47,373 - WARNING - logger_utility.log - Config key 'scroll_delay_var' not found. Using default.
+2024-11-02 15:32:47,373 - WARNING - logger_utility.log - Config key 'element_wait_timeout_var' not found. Using default.
+2024-11-02 15:32:47,373 - WARNING - logger_utility.log - Config key 'display_no_price_var' not found. Using default.
+2024-11-02 15:32:47,373 - WARNING - logger_utility.log - Config key 'user_agent_change_interval_var' not found. Using default.
+2024-11-02 15:32:47,373 - WARNING - logger_utility.log - Config key 'user_agent_var' not found. Using default.
+2024-11-02 15:32:47,373 - WARNING - logger_utility.log - Config key 'expected_containers_var' not found. Using default.
+2024-11-02 15:32:47,373 - WARNING - logger_utility.log - Config key 'expected_number_var' not found. Using default.
+2024-11-02 15:32:47,373 - WARNING - logger_utility.log - Config key 'potential_selectors_var' not found. Using default.
+2024-11-02 15:32:52,724 - INFO - logger_utility.log - Scraping process started
+2024-11-02 15:32:52,724 - DEBUG - logger_utility.log - Log handler flushed
+2024-11-02 15:32:52,725 - INFO - logger_utility.log - Log message at level 'info': Scraping process started
+2024-11-02 15:32:52,725 - DEBUG - logger_utility.log - Log handler flushed
+2024-11-02 15:32:52,725 - INFO - logger_utility.log - All log handlers flushed
+2024-11-02 15:32:52,725 - DEBUG - logger_utility.log - Selected User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+2024-11-02 15:32:52,725 - DEBUG - logger_utility.log - Log message at level 'debug': Selected User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+2024-11-02 15:32:52,725 - INFO - logger_utility.log - Geckodriver found at: K:\scraper2\geckodriver.exe
+2024-11-02 15:32:52,725 - INFO - logger_utility.log - Log message at level 'info': Geckodriver found at: K:\scraper2\geckodriver.exe
+2024-11-02 15:32:55,402 - INFO - logger_utility.log - WebDriver initialized with selected User-Agent.
+2024-11-02 15:32:55,402 - INFO - logger_utility.log - Log message at level 'info': WebDriver initialized with selected User-Agent.
+2024-11-02 15:32:55,402 - DEBUG - logger_utility.log - Simulating delay of 2.93 seconds.
+2024-11-02 15:32:55,403 - DEBUG - logger_utility.log - Log message at level 'debug': Simulating delay of 2.93 seconds.
+2024-11-02 15:32:58,329 - ERROR - logger_utility.log - Unexpected error during scraping: invalid literal for int() with base 10: ''
+2024-11-02 15:32:58,329 - ERROR - logger_utility.log - Log message at level 'error': Unexpected error during scraping: invalid literal for int() with base 10: ''
+2024-11-02 15:32:58,329 - DEBUG - logger_utility.log - Error logged: Unexpected error during scraping: invalid literal for int() with base 10: ''
+2024-11-02 15:32:58,761 - INFO - logger_utility.log - WebDriver closed.
+2024-11-02 15:32:58,761 - INFO - logger_utility.log - Log message at level 'info': WebDriver closed.
+2024-11-02 15:37:05,620 - INFO - logger_utility.log - Loaded previous field values from 'field_values.json'.
+2024-11-02 15:37:05,620 - INFO - logger_utility.log - Loaded configuration from 'config.json'.
+2024-11-02 15:37:05,621 - WARNING - logger_utility.log - Config key 'entry_var' not found. Using default.
+2024-11-02 15:37:05,621 - WARNING - logger_utility.log - Config key 'page_param_var' not found. Using default.
+2024-11-02 15:37:05,621 - WARNING - logger_utility.log - Config key 'max_pages_var' not found. Using default.
+2024-11-02 15:37:05,621 - WARNING - logger_utility.log - Config key 'price_var' not found. Using default.
+2024-11-02 15:37:05,621 - WARNING - logger_utility.log - Config key 'url_entry_var' not found. Using default.
+2024-11-02 15:37:05,621 - WARNING - logger_utility.log - Config key 'url_path_var' not found. Using default.
+2024-11-02 15:37:05,621 - WARNING - logger_utility.log - Config key 'url_append_params_var' not found. Using default.
+2024-11-02 15:37:05,621 - WARNING - logger_utility.log - Config key 'csv_filename_var' not found. Using default.
+2024-11-02 15:37:05,621 - WARNING - logger_utility.log - Config key 'container_selector_var' not found. Using default.
+2024-11-02 15:37:05,621 - WARNING - logger_utility.log - Config key 'title_selector_var' not found. Using default.
+2024-11-02 15:37:05,621 - WARNING - logger_utility.log - Config key 'price_selectors_var' not found. Using default.
+2024-11-02 15:37:05,621 - WARNING - logger_utility.log - Config key 'secondary_price_indicator_var' not found. Using default.
+2024-11-02 15:37:05,621 - WARNING - logger_utility.log - Config key 'secondary_price_selectors_var' not found. Using default.
+2024-11-02 15:37:05,621 - WARNING - logger_utility.log - Config key 'scroll_delay_var' not found. Using default.
+2024-11-02 15:37:05,623 - WARNING - logger_utility.log - Config key 'element_wait_timeout_var' not found. Using default.
+2024-11-02 15:37:05,623 - WARNING - logger_utility.log - Config key 'display_no_price_var' not found. Using default.
+2024-11-02 15:37:05,623 - WARNING - logger_utility.log - Config key 'user_agent_change_interval_var' not found. Using default.
+2024-11-02 15:37:05,623 - WARNING - logger_utility.log - Config key 'user_agent_var' not found. Using default.
+2024-11-02 15:37:05,623 - WARNING - logger_utility.log - Config key 'expected_containers_var' not found. Using default.
+2024-11-02 15:37:05,623 - WARNING - logger_utility.log - Config key 'expected_number_var' not found. Using default.
+2024-11-02 15:37:05,623 - WARNING - logger_utility.log - Config key 'potential_selectors_var' not found. Using default.
+2024-11-02 15:37:09,081 - INFO - logger_utility.log - Scraping process started
+2024-11-02 15:37:09,081 - DEBUG - logger_utility.log - Log handler flushed
+2024-11-02 15:37:09,081 - INFO - logger_utility.log - Log message at level 'info': Scraping process started
+2024-11-02 15:37:09,081 - DEBUG - logger_utility.log - Log handler flushed
+2024-11-02 15:37:09,081 - INFO - logger_utility.log - All log handlers flushed
+2024-11-02 15:37:09,081 - DEBUG - logger_utility.log - Selected User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+2024-11-02 15:37:09,081 - DEBUG - logger_utility.log - Log message at level 'debug': Selected User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+2024-11-02 15:37:09,081 - INFO - logger_utility.log - Geckodriver found at: K:\scraper2\geckodriver.exe
+2024-11-02 15:37:09,082 - INFO - logger_utility.log - Log message at level 'info': Geckodriver found at: K:\scraper2\geckodriver.exe
+2024-11-02 15:37:11,793 - INFO - logger_utility.log - WebDriver initialized with selected User-Agent.
+2024-11-02 15:37:11,793 - INFO - logger_utility.log - Log message at level 'info': WebDriver initialized with selected User-Agent.
+2024-11-02 15:37:11,793 - DEBUG - logger_utility.log - Simulating delay of 4.32 seconds.
+2024-11-02 15:37:11,793 - DEBUG - logger_utility.log - Log message at level 'debug': Simulating delay of 4.32 seconds.
+2024-11-02 15:37:16,111 - ERROR - logger_utility.log - Unexpected error during scraping: invalid literal for int() with base 10: ''
+2024-11-02 15:37:16,111 - ERROR - logger_utility.log - Log message at level 'error': Unexpected error during scraping: invalid literal for int() with base 10: ''
+2024-11-02 15:37:16,111 - DEBUG - logger_utility.log - Error logged: Unexpected error during scraping: invalid literal for int() with base 10: ''
+2024-11-02 15:37:16,499 - INFO - logger_utility.log - WebDriver closed.
+2024-11-02 15:37:16,500 - INFO - logger_utility.log - Log message at level 'info': WebDriver closed.
+2024-11-02 15:43:24,660 - INFO - logger_utility.log - Loaded previous field values from 'field_values.json'.
+2024-11-02 15:43:24,661 - INFO - logger_utility.log - Loaded configuration from 'config.json'.
+2024-11-02 15:44:14,646 - INFO - logger_utility.log - Loaded previous field values from 'field_values.json'.
+2024-11-02 15:44:14,647 - INFO - logger_utility.log - Loaded configuration from 'config.json'.
+2024-11-02 15:44:14,647 - DEBUG - logger_utility.log - Set 'entry_var' to '4070'
+2024-11-02 15:44:14,647 - DEBUG - logger_utility.log - Set 'page_param_var' to '&page='
+2024-11-02 15:44:14,647 - DEBUG - logger_utility.log - Set 'max_pages_var' to '10'
+2024-11-02 15:44:14,647 - DEBUG - logger_utility.log - Set 'price_var' to '5000'
+2024-11-02 15:44:14,647 - DEBUG - logger_utility.log - Set 'url_entry_var' to 'https://www.amazon.de/'
+2024-11-02 15:44:14,647 - DEBUG - logger_utility.log - Set 'url_path_var' to '-/en/s?k='
+2024-11-02 15:44:14,647 - DEBUG - logger_utility.log - Set 'url_append_params_var' to '&ref=sr_pg_'
+2024-11-02 15:44:14,647 - DEBUG - logger_utility.log - Set 'csv_filename_var' to 'search_results.csv'
+2024-11-02 15:44:14,647 - DEBUG - logger_utility.log - Set 'container_selector_var' to 'div.puisg-col-inner'
+2024-11-02 15:44:14,647 - DEBUG - logger_utility.log - Set 'title_selector_var' to 'span.a-text-normal'
+2024-11-02 15:44:14,647 - DEBUG - logger_utility.log - Set 'price_selectors_var' to '.a-price'
+2024-11-02 15:44:14,647 - DEBUG - logger_utility.log - Set 'secondary_price_indicator_var' to 'More buying choices'
+2024-11-02 15:44:14,647 - DEBUG - logger_utility.log - Set 'secondary_price_selectors_var' to '.a-color-base'
+2024-11-02 15:44:14,647 - DEBUG - logger_utility.log - Set 'scroll_delay_var' to '25'
+2024-11-02 15:44:14,647 - DEBUG - logger_utility.log - Set 'element_wait_timeout_var' to '20'
+2024-11-02 15:44:14,647 - DEBUG - logger_utility.log - Set 'display_no_price_var' to 'True'
+2024-11-02 15:44:14,647 - DEBUG - logger_utility.log - Set 'user_agent_change_interval_var' to '6'
+2024-11-02 15:44:14,647 - DEBUG - logger_utility.log - Set 'user_agent_var' to 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/102.0'
+2024-11-02 15:44:14,647 - DEBUG - logger_utility.log - Set 'expected_containers_var' to '100'
+2024-11-02 15:44:14,647 - DEBUG - logger_utility.log - Set 'expected_number_var' to '0'
+2024-11-02 15:44:14,647 - DEBUG - logger_utility.log - Set 'potential_selectors_var' to '['.product-item', '.a-section', 'div.puisg-col-inner']'
+2024-11-02 15:44:23,435 - INFO - logger_utility.log - Scraping process started
+2024-11-02 15:44:23,435 - DEBUG - logger_utility.log - Log handler flushed
+2024-11-02 15:44:23,436 - INFO - logger_utility.log - Log message at level 'info': Scraping process started
+2024-11-02 15:44:23,436 - DEBUG - logger_utility.log - Log handler flushed
+2024-11-02 15:44:23,436 - INFO - logger_utility.log - All log handlers flushed
+2024-11-02 15:44:23,436 - DEBUG - logger_utility.log - Selected User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/102.0
+2024-11-02 15:44:23,436 - DEBUG - logger_utility.log - Log message at level 'debug': Selected User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/102.0
+2024-11-02 15:44:23,436 - INFO - logger_utility.log - Geckodriver found at: K:\scraper2\geckodriver.exe
+2024-11-02 15:44:23,437 - INFO - logger_utility.log - Log message at level 'info': Geckodriver found at: K:\scraper2\geckodriver.exe
+2024-11-02 15:44:26,089 - INFO - logger_utility.log - WebDriver initialized with selected User-Agent.
+2024-11-02 15:44:26,089 - INFO - logger_utility.log - Log message at level 'info': WebDriver initialized with selected User-Agent.
+2024-11-02 15:44:26,089 - DEBUG - logger_utility.log - Simulating delay of 3.41 seconds.
+2024-11-02 15:44:26,089 - DEBUG - logger_utility.log - Log message at level 'debug': Simulating delay of 3.41 seconds.
+2024-11-02 15:44:29,496 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:44:29,496 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:44:29,496 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:44:29,496 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:44:29,496 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=1
+2024-11-02 15:44:29,496 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=1
+2024-11-02 15:44:30,603 - DEBUG - logger_utility.log - Page 1 loaded successfully.
+2024-11-02 15:44:30,604 - DEBUG - logger_utility.log - Log message at level 'debug': Page 1 loaded successfully.
+2024-11-02 15:44:30,624 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:44:30,625 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:44:30,625 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:44:30,625 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:44:30,625 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=2
+2024-11-02 15:44:30,625 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=2
+2024-11-02 15:44:31,172 - DEBUG - logger_utility.log - Page 2 loaded successfully.
+2024-11-02 15:44:31,172 - DEBUG - logger_utility.log - Log message at level 'debug': Page 2 loaded successfully.
+2024-11-02 15:44:31,186 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:44:31,186 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:44:31,186 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:44:31,186 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:44:31,186 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=3
+2024-11-02 15:44:31,186 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=3
+2024-11-02 15:44:31,702 - DEBUG - logger_utility.log - Page 3 loaded successfully.
+2024-11-02 15:44:31,702 - DEBUG - logger_utility.log - Log message at level 'debug': Page 3 loaded successfully.
+2024-11-02 15:44:31,713 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:44:31,713 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:44:31,713 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:44:31,713 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:44:31,713 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=4
+2024-11-02 15:44:31,713 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=4
+2024-11-02 15:44:32,231 - DEBUG - logger_utility.log - Page 4 loaded successfully.
+2024-11-02 15:44:32,231 - DEBUG - logger_utility.log - Log message at level 'debug': Page 4 loaded successfully.
+2024-11-02 15:44:32,249 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:44:32,249 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:44:32,249 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:44:32,249 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:44:32,249 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=5
+2024-11-02 15:44:32,249 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=5
+2024-11-02 15:44:32,716 - DEBUG - logger_utility.log - Page 5 loaded successfully.
+2024-11-02 15:44:32,716 - DEBUG - logger_utility.log - Log message at level 'debug': Page 5 loaded successfully.
+2024-11-02 15:44:32,748 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:44:32,749 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:44:32,749 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:44:32,749 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:44:32,749 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=6
+2024-11-02 15:44:32,749 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=6
+2024-11-02 15:44:33,182 - DEBUG - logger_utility.log - Page 6 loaded successfully.
+2024-11-02 15:44:33,182 - DEBUG - logger_utility.log - Log message at level 'debug': Page 6 loaded successfully.
+2024-11-02 15:44:33,240 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:44:33,241 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:44:33,241 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:44:33,241 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:44:33,241 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=7
+2024-11-02 15:44:33,241 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=7
+2024-11-02 15:44:33,737 - DEBUG - logger_utility.log - Page 7 loaded successfully.
+2024-11-02 15:44:33,737 - DEBUG - logger_utility.log - Log message at level 'debug': Page 7 loaded successfully.
+2024-11-02 15:44:33,748 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:44:33,748 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:44:33,748 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:44:33,748 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:44:33,748 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=8
+2024-11-02 15:44:33,749 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=8
+2024-11-02 15:44:33,760 - INFO - logger_utility.log - Scraping stopped by user.
+2024-11-02 15:44:33,761 - INFO - logger_utility.log - Log message at level 'info': Scraping stopped by user.
+2024-11-02 15:44:34,263 - DEBUG - logger_utility.log - Page 8 loaded successfully.
+2024-11-02 15:44:34,263 - DEBUG - logger_utility.log - Log message at level 'debug': Page 8 loaded successfully.
+2024-11-02 15:44:34,275 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:44:34,275 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:44:34,275 - WARNING - logger_utility.log - Scraping stopped by user
+2024-11-02 15:44:34,276 - WARNING - logger_utility.log - Log message at level 'warning': Scraping stopped by user
+2024-11-02 15:44:34,276 - ERROR - logger_utility.log - Unexpected error during scraping: 'ScraperManager' object has no attribute 'product_data'
+2024-11-02 15:44:34,276 - ERROR - logger_utility.log - Log message at level 'error': Unexpected error during scraping: 'ScraperManager' object has no attribute 'product_data'
+2024-11-02 15:44:34,277 - DEBUG - logger_utility.log - Error logged: Unexpected error during scraping: 'ScraperManager' object has no attribute 'product_data'
+2024-11-02 15:44:34,860 - INFO - logger_utility.log - WebDriver closed.
+2024-11-02 15:44:34,860 - INFO - logger_utility.log - Log message at level 'info': WebDriver closed.
+2024-11-02 15:47:36,854 - INFO - logger_utility.log - Loaded previous field values from 'field_values.json'.
+2024-11-02 15:47:36,854 - INFO - logger_utility.log - Loaded configuration from 'config.json'.
+2024-11-02 15:47:36,855 - DEBUG - logger_utility.log - Set 'entry_var' to '4070'
+2024-11-02 15:47:36,855 - DEBUG - logger_utility.log - Set 'page_param_var' to '&page='
+2024-11-02 15:47:36,855 - DEBUG - logger_utility.log - Set 'max_pages_var' to '10'
+2024-11-02 15:47:36,855 - DEBUG - logger_utility.log - Set 'price_var' to '5000'
+2024-11-02 15:47:36,855 - DEBUG - logger_utility.log - Set 'url_entry_var' to 'https://www.amazon.de/'
+2024-11-02 15:47:36,855 - DEBUG - logger_utility.log - Set 'url_path_var' to '-/en/s?k='
+2024-11-02 15:47:36,855 - DEBUG - logger_utility.log - Set 'url_append_params_var' to '&ref=sr_pg_'
+2024-11-02 15:47:36,855 - DEBUG - logger_utility.log - Set 'csv_filename_var' to 'search_results.csv'
+2024-11-02 15:47:36,855 - DEBUG - logger_utility.log - Set 'container_selector_var' to 'div.puisg-col-inner'
+2024-11-02 15:47:36,855 - DEBUG - logger_utility.log - Set 'title_selector_var' to 'span.a-text-normal'
+2024-11-02 15:47:36,855 - DEBUG - logger_utility.log - Set 'price_selectors_var' to '.a-price'
+2024-11-02 15:47:36,855 - DEBUG - logger_utility.log - Set 'secondary_price_indicator_var' to 'More buying choices'
+2024-11-02 15:47:36,855 - DEBUG - logger_utility.log - Set 'secondary_price_selectors_var' to '.a-color-base'
+2024-11-02 15:47:36,855 - DEBUG - logger_utility.log - Set 'scroll_delay_var' to '25'
+2024-11-02 15:47:36,855 - DEBUG - logger_utility.log - Set 'element_wait_timeout_var' to '20'
+2024-11-02 15:47:36,855 - DEBUG - logger_utility.log - Set 'display_no_price_var' to 'True'
+2024-11-02 15:47:36,855 - DEBUG - logger_utility.log - Set 'user_agent_change_interval_var' to '6'
+2024-11-02 15:47:36,855 - DEBUG - logger_utility.log - Set 'user_agent_var' to 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/102.0'
+2024-11-02 15:47:36,855 - DEBUG - logger_utility.log - Set 'expected_containers_var' to '100'
+2024-11-02 15:47:36,855 - DEBUG - logger_utility.log - Set 'expected_number_var' to '0'
+2024-11-02 15:47:36,855 - DEBUG - logger_utility.log - Set 'potential_selectors_var' to '['.product-item', '.a-section', 'div.puisg-col-inner']'
+2024-11-02 15:49:15,584 - INFO - logger_utility.log - Loaded previous field values from 'field_values.json'.
+2024-11-02 15:49:15,585 - INFO - logger_utility.log - Loaded configuration from 'config.json'.
+2024-11-02 15:49:15,585 - DEBUG - logger_utility.log - Set 'entry_var' to '4070'
+2024-11-02 15:49:15,585 - DEBUG - logger_utility.log - Set 'page_param_var' to '&page='
+2024-11-02 15:49:15,585 - DEBUG - logger_utility.log - Set 'max_pages_var' to '10'
+2024-11-02 15:49:15,585 - DEBUG - logger_utility.log - Set 'price_var' to '5000'
+2024-11-02 15:49:15,585 - DEBUG - logger_utility.log - Set 'url_entry_var' to 'https://www.amazon.de/'
+2024-11-02 15:49:15,585 - DEBUG - logger_utility.log - Set 'url_path_var' to '-/en/s?k='
+2024-11-02 15:49:15,585 - DEBUG - logger_utility.log - Set 'url_append_params_var' to '&ref=sr_pg_'
+2024-11-02 15:49:15,585 - DEBUG - logger_utility.log - Set 'csv_filename_var' to 'search_results.csv'
+2024-11-02 15:49:15,585 - DEBUG - logger_utility.log - Set 'container_selector_var' to 'div.puisg-col-inner'
+2024-11-02 15:49:15,585 - DEBUG - logger_utility.log - Set 'title_selector_var' to 'span.a-text-normal'
+2024-11-02 15:49:15,585 - DEBUG - logger_utility.log - Set 'price_selectors_var' to '.a-price'
+2024-11-02 15:49:15,585 - DEBUG - logger_utility.log - Set 'secondary_price_indicator_var' to 'More buying choices'
+2024-11-02 15:49:15,585 - DEBUG - logger_utility.log - Set 'secondary_price_selectors_var' to '.a-color-base'
+2024-11-02 15:49:15,585 - DEBUG - logger_utility.log - Set 'scroll_delay_var' to '25'
+2024-11-02 15:49:15,585 - DEBUG - logger_utility.log - Set 'element_wait_timeout_var' to '20'
+2024-11-02 15:49:15,585 - DEBUG - logger_utility.log - Set 'display_no_price_var' to 'True'
+2024-11-02 15:49:15,585 - DEBUG - logger_utility.log - Set 'user_agent_change_interval_var' to '6'
+2024-11-02 15:49:15,585 - DEBUG - logger_utility.log - Set 'user_agent_var' to 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/102.0'
+2024-11-02 15:49:15,585 - DEBUG - logger_utility.log - Set 'expected_containers_var' to '100'
+2024-11-02 15:49:15,585 - DEBUG - logger_utility.log - Set 'expected_number_var' to '0'
+2024-11-02 15:49:15,585 - DEBUG - logger_utility.log - Set 'potential_selectors_var' to '['.product-item', '.a-section', 'div.puisg-col-inner']'
+2024-11-02 15:50:29,248 - INFO - logger_utility.log - Loaded previous field values from 'field_values.json'.
+2024-11-02 15:50:29,249 - INFO - logger_utility.log - Loaded configuration from 'config.json'.
+2024-11-02 15:50:29,249 - DEBUG - logger_utility.log - Set 'entry_var' to '4070'
+2024-11-02 15:50:29,249 - DEBUG - logger_utility.log - Set 'page_param_var' to '&page='
+2024-11-02 15:50:29,249 - DEBUG - logger_utility.log - Set 'max_pages_var' to '10'
+2024-11-02 15:50:29,249 - DEBUG - logger_utility.log - Set 'price_var' to '5000'
+2024-11-02 15:50:29,250 - DEBUG - logger_utility.log - Set 'url_entry_var' to 'https://www.amazon.de/'
+2024-11-02 15:50:29,250 - DEBUG - logger_utility.log - Set 'url_path_var' to '-/en/s?k='
+2024-11-02 15:50:29,250 - DEBUG - logger_utility.log - Set 'url_append_params_var' to '&ref=sr_pg_'
+2024-11-02 15:50:29,250 - DEBUG - logger_utility.log - Set 'csv_filename_var' to 'search_results.csv'
+2024-11-02 15:50:29,250 - DEBUG - logger_utility.log - Set 'container_selector_var' to 'div.puisg-col-inner'
+2024-11-02 15:50:29,250 - DEBUG - logger_utility.log - Set 'title_selector_var' to 'span.a-text-normal'
+2024-11-02 15:50:29,250 - DEBUG - logger_utility.log - Set 'price_selectors_var' to '.a-price'
+2024-11-02 15:50:29,250 - DEBUG - logger_utility.log - Set 'secondary_price_indicator_var' to 'More buying choices'
+2024-11-02 15:50:29,250 - DEBUG - logger_utility.log - Set 'secondary_price_selectors_var' to '.a-color-base'
+2024-11-02 15:50:29,250 - DEBUG - logger_utility.log - Set 'scroll_delay_var' to '25'
+2024-11-02 15:50:29,250 - DEBUG - logger_utility.log - Set 'element_wait_timeout_var' to '20'
+2024-11-02 15:50:29,250 - DEBUG - logger_utility.log - Set 'display_no_price_var' to 'True'
+2024-11-02 15:50:29,250 - DEBUG - logger_utility.log - Set 'user_agent_change_interval_var' to '6'
+2024-11-02 15:50:29,250 - DEBUG - logger_utility.log - Set 'user_agent_var' to 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/102.0'
+2024-11-02 15:50:29,250 - DEBUG - logger_utility.log - Set 'expected_containers_var' to '100'
+2024-11-02 15:50:29,250 - DEBUG - logger_utility.log - Set 'expected_number_var' to '0'
+2024-11-02 15:50:29,250 - DEBUG - logger_utility.log - Set 'potential_selectors_var' to '['.product-item', '.a-section', 'div.puisg-col-inner']'
+2024-11-02 15:50:31,953 - INFO - logger_utility.log - Scraping process started
+2024-11-02 15:50:31,953 - DEBUG - logger_utility.log - Log handler flushed
+2024-11-02 15:50:31,954 - INFO - logger_utility.log - Log message at level 'info': Scraping process started
+2024-11-02 15:50:31,954 - DEBUG - logger_utility.log - Log handler flushed
+2024-11-02 15:50:31,954 - INFO - logger_utility.log - All log handlers flushed
+2024-11-02 15:50:31,954 - DEBUG - logger_utility.log - Selected User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/102.0
+2024-11-02 15:50:31,954 - DEBUG - logger_utility.log - Log message at level 'debug': Selected User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/102.0
+2024-11-02 15:50:31,954 - INFO - logger_utility.log - Geckodriver found at: K:\scraper2\geckodriver.exe
+2024-11-02 15:50:31,955 - INFO - logger_utility.log - Log message at level 'info': Geckodriver found at: K:\scraper2\geckodriver.exe
+2024-11-02 15:50:34,850 - INFO - logger_utility.log - WebDriver initialized with selected User-Agent.
+2024-11-02 15:50:34,850 - INFO - logger_utility.log - Log message at level 'info': WebDriver initialized with selected User-Agent.
+2024-11-02 15:50:34,850 - DEBUG - logger_utility.log - Simulating delay of 3.95 seconds.
+2024-11-02 15:50:34,850 - DEBUG - logger_utility.log - Log message at level 'debug': Simulating delay of 3.95 seconds.
+2024-11-02 15:50:38,801 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:50:38,801 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:50:38,801 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:50:38,801 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:50:38,801 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=1
+2024-11-02 15:50:38,802 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=1
+2024-11-02 15:50:39,902 - DEBUG - logger_utility.log - Page 1 loaded successfully.
+2024-11-02 15:50:39,902 - DEBUG - logger_utility.log - Log message at level 'debug': Page 1 loaded successfully.
+2024-11-02 15:50:39,913 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:50:39,913 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:50:39,913 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:50:39,913 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:50:39,913 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=2
+2024-11-02 15:50:39,913 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=2
+2024-11-02 15:50:40,378 - DEBUG - logger_utility.log - Page 2 loaded successfully.
+2024-11-02 15:50:40,378 - DEBUG - logger_utility.log - Log message at level 'debug': Page 2 loaded successfully.
+2024-11-02 15:50:40,383 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:50:40,383 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:50:40,383 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:50:40,383 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:50:40,383 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=3
+2024-11-02 15:50:40,383 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=3
+2024-11-02 15:50:40,804 - DEBUG - logger_utility.log - Page 3 loaded successfully.
+2024-11-02 15:50:40,804 - DEBUG - logger_utility.log - Log message at level 'debug': Page 3 loaded successfully.
+2024-11-02 15:50:40,809 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:50:40,809 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:50:40,809 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:50:40,809 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:50:40,809 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=4
+2024-11-02 15:50:40,809 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=4
+2024-11-02 15:50:41,236 - DEBUG - logger_utility.log - Page 4 loaded successfully.
+2024-11-02 15:50:41,236 - DEBUG - logger_utility.log - Log message at level 'debug': Page 4 loaded successfully.
+2024-11-02 15:50:41,250 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:50:41,250 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:50:41,250 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:50:41,250 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:50:41,250 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=5
+2024-11-02 15:50:41,251 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=5
+2024-11-02 15:50:41,675 - DEBUG - logger_utility.log - Page 5 loaded successfully.
+2024-11-02 15:50:41,676 - DEBUG - logger_utility.log - Log message at level 'debug': Page 5 loaded successfully.
+2024-11-02 15:50:41,692 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:50:41,692 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:50:41,692 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:50:41,692 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:50:41,692 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=6
+2024-11-02 15:50:41,692 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=6
+2024-11-02 15:50:42,128 - DEBUG - logger_utility.log - Page 6 loaded successfully.
+2024-11-02 15:50:42,128 - DEBUG - logger_utility.log - Log message at level 'debug': Page 6 loaded successfully.
+2024-11-02 15:50:42,138 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:50:42,138 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:50:42,138 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:50:42,138 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:50:42,138 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=7
+2024-11-02 15:50:42,139 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=7
+2024-11-02 15:50:42,630 - DEBUG - logger_utility.log - Page 7 loaded successfully.
+2024-11-02 15:50:42,630 - DEBUG - logger_utility.log - Log message at level 'debug': Page 7 loaded successfully.
+2024-11-02 15:50:42,654 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:50:42,654 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:50:42,654 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:50:42,654 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:50:42,654 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=8
+2024-11-02 15:50:42,655 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=8
+2024-11-02 15:50:43,078 - DEBUG - logger_utility.log - Page 8 loaded successfully.
+2024-11-02 15:50:43,078 - DEBUG - logger_utility.log - Log message at level 'debug': Page 8 loaded successfully.
+2024-11-02 15:50:43,092 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:50:43,092 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:50:43,092 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:50:43,092 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:50:43,092 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=9
+2024-11-02 15:50:43,093 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=9
+2024-11-02 15:50:43,634 - DEBUG - logger_utility.log - Page 9 loaded successfully.
+2024-11-02 15:50:43,634 - DEBUG - logger_utility.log - Log message at level 'debug': Page 9 loaded successfully.
+2024-11-02 15:50:43,652 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:50:43,652 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:50:43,652 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:50:43,652 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:50:43,652 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=10
+2024-11-02 15:50:43,652 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=10
+2024-11-02 15:50:44,065 - DEBUG - logger_utility.log - Page 10 loaded successfully.
+2024-11-02 15:50:44,065 - DEBUG - logger_utility.log - Log message at level 'debug': Page 10 loaded successfully.
+2024-11-02 15:50:44,080 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:50:44,080 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:50:44,080 - ERROR - logger_utility.log - Unexpected error during scraping: 'ScraperManager' object has no attribute 'product_data'
+2024-11-02 15:50:44,080 - ERROR - logger_utility.log - Log message at level 'error': Unexpected error during scraping: 'ScraperManager' object has no attribute 'product_data'
+2024-11-02 15:50:44,081 - DEBUG - logger_utility.log - Error logged: Unexpected error during scraping: 'ScraperManager' object has no attribute 'product_data'
+2024-11-02 15:50:44,667 - INFO - logger_utility.log - WebDriver closed.
+2024-11-02 15:50:44,668 - INFO - logger_utility.log - Log message at level 'info': WebDriver closed.
+2024-11-02 15:50:48,473 - INFO - logger_utility.log - Scraping stopped by user.
+2024-11-02 15:50:48,473 - INFO - logger_utility.log - Log message at level 'info': Scraping stopped by user.
+2024-11-02 15:55:29,559 - INFO - logger_utility.log - Loaded previous field values from 'field_values.json'.
+2024-11-02 15:55:29,559 - INFO - logger_utility.log - Loaded configuration from 'config.json'.
+2024-11-02 15:55:29,559 - DEBUG - logger_utility.log - Set 'entry_var' to '4070'
+2024-11-02 15:55:29,559 - DEBUG - logger_utility.log - Set 'page_param_var' to '&page='
+2024-11-02 15:55:29,559 - DEBUG - logger_utility.log - Set 'max_pages_var' to '10'
+2024-11-02 15:55:29,560 - DEBUG - logger_utility.log - Set 'price_var' to '5000'
+2024-11-02 15:55:29,560 - DEBUG - logger_utility.log - Set 'url_entry_var' to 'https://www.amazon.de/'
+2024-11-02 15:55:29,560 - DEBUG - logger_utility.log - Set 'url_path_var' to '-/en/s?k='
+2024-11-02 15:55:29,560 - DEBUG - logger_utility.log - Set 'url_append_params_var' to '&ref=sr_pg_'
+2024-11-02 15:55:29,560 - DEBUG - logger_utility.log - Set 'csv_filename_var' to 'search_results.csv'
+2024-11-02 15:55:29,560 - DEBUG - logger_utility.log - Set 'container_selector_var' to 'div.puisg-col-inner'
+2024-11-02 15:55:29,560 - DEBUG - logger_utility.log - Set 'title_selector_var' to 'span.a-text-normal'
+2024-11-02 15:55:29,560 - DEBUG - logger_utility.log - Set 'price_selectors_var' to '.a-price'
+2024-11-02 15:55:29,560 - DEBUG - logger_utility.log - Set 'secondary_price_indicator_var' to 'More buying choices'
+2024-11-02 15:55:29,560 - DEBUG - logger_utility.log - Set 'secondary_price_selectors_var' to '.a-color-base'
+2024-11-02 15:55:29,560 - DEBUG - logger_utility.log - Set 'scroll_delay_var' to '25'
+2024-11-02 15:55:29,560 - DEBUG - logger_utility.log - Set 'element_wait_timeout_var' to '20'
+2024-11-02 15:55:29,560 - DEBUG - logger_utility.log - Set 'display_no_price_var' to 'True'
+2024-11-02 15:55:29,560 - DEBUG - logger_utility.log - Set 'user_agent_change_interval_var' to '6'
+2024-11-02 15:55:29,560 - DEBUG - logger_utility.log - Set 'user_agent_var' to 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/102.0'
+2024-11-02 15:55:29,560 - DEBUG - logger_utility.log - Set 'expected_containers_var' to '100'
+2024-11-02 15:55:29,560 - DEBUG - logger_utility.log - Set 'expected_number_var' to '0'
+2024-11-02 15:55:29,560 - DEBUG - logger_utility.log - Set 'potential_selectors_var' to '['.product-item', '.a-section', 'div.puisg-col-inner']'
+2024-11-02 15:55:33,106 - INFO - logger_utility.log - Scraping process started
+2024-11-02 15:55:33,106 - DEBUG - logger_utility.log - Log handler flushed
+2024-11-02 15:55:33,106 - INFO - logger_utility.log - Log message at level 'info': Scraping process started
+2024-11-02 15:55:33,106 - DEBUG - logger_utility.log - Log handler flushed
+2024-11-02 15:55:33,107 - INFO - logger_utility.log - All log handlers flushed
+2024-11-02 15:55:33,107 - DEBUG - logger_utility.log - Selected User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/102.0
+2024-11-02 15:55:33,107 - DEBUG - logger_utility.log - Log message at level 'debug': Selected User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/102.0
+2024-11-02 15:55:33,107 - INFO - logger_utility.log - Geckodriver found at: K:\scraper2\geckodriver.exe
+2024-11-02 15:55:33,107 - INFO - logger_utility.log - Log message at level 'info': Geckodriver found at: K:\scraper2\geckodriver.exe
+2024-11-02 15:55:36,024 - INFO - logger_utility.log - WebDriver initialized with selected User-Agent.
+2024-11-02 15:55:36,024 - INFO - logger_utility.log - Log message at level 'info': WebDriver initialized with selected User-Agent.
+2024-11-02 15:55:36,024 - DEBUG - logger_utility.log - Simulating delay of 2.52 seconds.
+2024-11-02 15:55:36,024 - DEBUG - logger_utility.log - Log message at level 'debug': Simulating delay of 2.52 seconds.
+2024-11-02 15:55:38,547 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:55:38,547 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:55:38,547 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:55:38,547 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:55:38,547 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=1
+2024-11-02 15:55:38,547 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=1
+2024-11-02 15:55:39,398 - DEBUG - logger_utility.log - Page 1 loaded successfully.
+2024-11-02 15:55:39,398 - DEBUG - logger_utility.log - Log message at level 'debug': Page 1 loaded successfully.
+2024-11-02 15:55:39,412 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:55:39,412 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:55:39,412 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:55:39,412 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:55:39,412 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=2
+2024-11-02 15:55:39,413 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=2
+2024-11-02 15:55:39,911 - DEBUG - logger_utility.log - Page 2 loaded successfully.
+2024-11-02 15:55:39,911 - DEBUG - logger_utility.log - Log message at level 'debug': Page 2 loaded successfully.
+2024-11-02 15:55:39,919 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:55:39,919 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:55:39,919 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:55:39,919 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:55:39,919 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=3
+2024-11-02 15:55:39,919 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=3
+2024-11-02 15:55:40,397 - DEBUG - logger_utility.log - Page 3 loaded successfully.
+2024-11-02 15:55:40,397 - DEBUG - logger_utility.log - Log message at level 'debug': Page 3 loaded successfully.
+2024-11-02 15:55:40,425 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:55:40,425 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:55:40,426 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:55:40,426 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:55:40,426 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=4
+2024-11-02 15:55:40,426 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=4
+2024-11-02 15:55:40,878 - DEBUG - logger_utility.log - Page 4 loaded successfully.
+2024-11-02 15:55:40,878 - DEBUG - logger_utility.log - Log message at level 'debug': Page 4 loaded successfully.
+2024-11-02 15:55:40,893 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:55:40,893 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:55:40,893 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:55:40,893 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:55:40,893 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=5
+2024-11-02 15:55:40,893 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=5
+2024-11-02 15:55:41,429 - DEBUG - logger_utility.log - Page 5 loaded successfully.
+2024-11-02 15:55:41,429 - DEBUG - logger_utility.log - Log message at level 'debug': Page 5 loaded successfully.
+2024-11-02 15:55:41,442 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:55:41,442 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:55:41,442 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:55:41,442 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:55:41,442 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=6
+2024-11-02 15:55:41,442 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=6
+2024-11-02 15:55:41,907 - DEBUG - logger_utility.log - Page 6 loaded successfully.
+2024-11-02 15:55:41,907 - DEBUG - logger_utility.log - Log message at level 'debug': Page 6 loaded successfully.
+2024-11-02 15:55:41,915 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:55:41,915 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:55:41,915 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:55:41,915 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:55:41,915 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=7
+2024-11-02 15:55:41,915 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=7
+2024-11-02 15:55:42,372 - DEBUG - logger_utility.log - Page 7 loaded successfully.
+2024-11-02 15:55:42,372 - DEBUG - logger_utility.log - Log message at level 'debug': Page 7 loaded successfully.
+2024-11-02 15:55:42,385 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:55:42,385 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:55:42,385 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:55:42,385 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:55:42,385 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=8
+2024-11-02 15:55:42,385 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=8
+2024-11-02 15:55:42,859 - DEBUG - logger_utility.log - Page 8 loaded successfully.
+2024-11-02 15:55:42,860 - DEBUG - logger_utility.log - Log message at level 'debug': Page 8 loaded successfully.
+2024-11-02 15:55:42,868 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:55:42,868 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:55:42,868 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:55:42,868 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:55:42,868 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=9
+2024-11-02 15:55:42,868 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=9
+2024-11-02 15:55:43,372 - DEBUG - logger_utility.log - Page 9 loaded successfully.
+2024-11-02 15:55:43,372 - DEBUG - logger_utility.log - Log message at level 'debug': Page 9 loaded successfully.
+2024-11-02 15:55:43,398 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:55:43,399 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:55:43,399 - DEBUG - logger_utility.log - Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:55:43,399 - DEBUG - logger_utility.log - Log message at level 'debug': Constructed base URL: https://www.amazon.de/-/en/s?k=
+2024-11-02 15:55:43,399 - INFO - logger_utility.log - Navigating to URL: https://www.amazon.de/-/en/s?k=&page=10
+2024-11-02 15:55:43,399 - INFO - logger_utility.log - Log message at level 'info': Navigating to URL: https://www.amazon.de/-/en/s?k=&page=10
+2024-11-02 15:55:43,867 - DEBUG - logger_utility.log - Page 10 loaded successfully.
+2024-11-02 15:55:43,867 - DEBUG - logger_utility.log - Log message at level 'debug': Page 10 loaded successfully.
+2024-11-02 15:55:43,884 - DEBUG - logger_utility.log - Found 0 containers
+2024-11-02 15:55:43,884 - DEBUG - logger_utility.log - Log message at level 'debug': Found 0 containers
+2024-11-02 15:55:43,885 - INFO - logger_utility.log - Data saved to CSV: search_results.csv
+2024-11-02 15:55:43,885 - INFO - logger_utility.log - Log message at level 'info': Data saved to CSV: search_results.csv
+2024-11-02 15:55:44,462 - INFO - logger_utility.log - WebDriver closed.
+2024-11-02 15:55:44,463 - INFO - logger_utility.log - Log message at level 'info': WebDriver closed.

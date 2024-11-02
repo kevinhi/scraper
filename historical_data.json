@@ -1,0 +1,26 @@
+{
+    "products": [
+        {
+            "product_title": "NVIDIA RTX 4070",
+            "prices": [
+                {
+                    "price": 899.99,
+                    "date_found": "2023-10-01T12:00:00"
+                },
+                {
+                    "price": 879.99,
+                    "date_found": "2023-10-10T14:00:00"
+                }
+            ]
+        },
+        {
+            "product_title": "NVIDIA RTX 4080",
+            "prices": [
+                {
+                    "price": 1199.99,
+                    "date_found": "2023-10-05T11:30:00"
+                }
+            ]
+        }
+    ]
+}

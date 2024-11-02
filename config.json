@@ -1,0 +1,23 @@
+{
+    "entry_var": "4070",
+    "page_param_var": "&page=",
+    "max_pages_var": "10",
+    "price_var": "5000",
+    "url_entry_var": "https://www.amazon.de/",
+    "url_path_var": "-/en/s?k=",
+    "url_append_params_var": "&ref=sr_pg_",
+    "csv_filename_var": "search_results.csv",
+    "container_selector_var": "div.puisg-col-inner",
+    "title_selector_var": "span.a-text-normal",
+    "price_selectors_var": ".a-price",
+    "secondary_price_indicator_var": "More buying choices",
+    "secondary_price_selectors_var": ".a-color-base",
+    "scroll_delay_var": "25",
+    "element_wait_timeout_var": "20",
+    "display_no_price_var": true,
+    "user_agent_change_interval_var": "6",
+    "user_agent_var": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/102.0",
+    "expected_containers_var": "100",
+    "expected_number_var": "0",
+    "potential_selectors_var": [".product-item", ".a-section", "div.puisg-col-inner"]
+}

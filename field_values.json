@@ -1,0 +1,26 @@
+{
+    "entry_var": ["rtx+4080&i=computers", "rtx", "4070", "4070-t1", "4070-ti"],
+    "page_param_var": ["&page=", "&pg="],
+    "max_pages_var": ["10", "5", "1", "50", "100"],
+    "price_var": ["5000", "50000", "1000", "10000"],
+    "url_entry_var": ["https://www.amazon.de/", "https://www.ebay.com/"],
+    "url_path_var": ["s?k=", "-/en/s?k=", "sch/i.html?_nkw="],
+    "url_append_params_var": ["&ref=sr_pg_", "&dc", "&_pgn="],
+    "csv_filename_var": ["search_results.csv", "results.csv", "product_data.csv"],
+    "container_selector_var": ["div.puisg-col-inner", "div.product-container"],
+    "title_selector_var": ["span.a-text-normal", ".product-title"],
+    "price_selectors_var": [".a-price", ".price-current"],
+    "secondary_price_indicator_var": ["More buying choices", "Used & new"],
+    "secondary_price_selectors_var": [".a-color-base", ".price-secondary"],
+    "scroll_delay_var": ["25", "50", "20"],
+    "element_wait_timeout_var": ["20", "30", "50"],
+    "display_no_price_var": [true, false],
+    "user_agent_change_interval_var": ["6", "25", "4"],
+    "user_agent_var": [
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/102.0",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+    ],
+    "expected_containers_var": ["24", "48", "100"],
+    "expected_number_var": ["0", "24", "48"],
+    "potential_selectors_var": [".product-item", ".a-section", ".puisg-col-inner"]
+}
